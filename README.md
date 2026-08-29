@@ -11,3 +11,5 @@ Uma aplicação interativa desenvolvida em **Python** e **Streamlit** que realiz
 - **Web Scraping:** BeautifulSoup4, Requests, Scrapy
 - **Processamento de Texto & NLP:** NLTK
 - **Visualização de Dados:** WordCloud, Matplotlib
+
+Link da hospedagem: https://wiki-nlp-scraper-7dpsiiuraiymcveqha4xou.streamlit.app/
