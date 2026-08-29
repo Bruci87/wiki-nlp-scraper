@@ -1,8 +1,8 @@
 streamlit
-beautifulsoup4
 requests
+beautifulsoup4
 scrapy
-crochet
 wordcloud
-nltk
 matplotlib
+nltk
+pandas
