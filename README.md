@@ -13,3 +13,4 @@ Uma aplicação interativa desenvolvida em **Python** e **Streamlit** que realiz
 - **Visualização de Dados:** WordCloud, Matplotlib
 
 Link da hospedagem: https://wiki-nlp-scraper-7dpsiiuraiymcveqha4xou.streamlit.app/
+Link do resumo/relatório: https://docs.google.com/document/d/1EaFHG7-5cIdH5MNCjsuP5MxTYKIyrohbD0Vrzj9JPFQ/edit?usp=sharing
